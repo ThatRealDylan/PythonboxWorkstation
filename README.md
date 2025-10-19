@@ -12,5 +12,6 @@ To Install Pythonbox:
 - Start the wizard, select your installation options, and pick the install folder.
 - Python Box Is Now Installed! just Open the "PyboxWorkstation.exe" to start it!
 Alternitively, You can use the Portable Version, but its not recommended.
-(There is currently [Maybe] no installation for MacOS or Linux, It only has been tested on Windows)
+(There is currently (Maybe) no installation for MacOS or Linux, It only has been tested on Windows)
+
 
