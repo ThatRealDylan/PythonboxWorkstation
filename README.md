@@ -14,4 +14,5 @@ To Install Pythonbox:
 Alternitively, You can use the Portable Version, but its not recommended.
 (There is currently (Maybe) no installation for MacOS or Linux, It only has been tested on Windows)
 
+**(this is unfinished lol)**
 
